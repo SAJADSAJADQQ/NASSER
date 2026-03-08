@@ -1408,7 +1408,7 @@ const products = [
     // RSP Products
     {
         id: 68,
-        title: "RSP TrueFit Protein Powder",
+        title: " TrueFit Protein Powder",
         category: "MUSCLETECH",
         description: "Complete protein and superfood blend",
         price: "$59.99",
@@ -1425,7 +1425,7 @@ const products = [
     },
     {
         id: 69,
-        title: "RSP AminoLean Energy Drink",
+        title: " AminoLean Energy Drink",
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
         price: "$44.99",
@@ -1445,7 +1445,7 @@ const products = [
 
     {
         id: 70,
-        title: "RSP AminoLean Energy Drink",
+        title: " AminoLean Energy Drink",
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
         price: "$44.99",
@@ -1464,7 +1464,7 @@ const products = [
 
     {
         id: 71,
-        title: "RSP AminoLean Energy Drink",
+        title: " AminoLean Energy Drink",
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
         price: "$44.99",
@@ -1484,7 +1484,7 @@ const products = [
 
     {
         id: 72,
-        title: "RSP AminoLean Energy Drink",
+        title: " AminoLean Energy Drink",
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
         price: "$44.99",
@@ -1504,7 +1504,7 @@ const products = [
 
     {
         id: 73,
-        title: "RSP AminoLean Energy Drink",
+        title: " AminoLean Energy Drink",
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
         price: "$44.99",
@@ -1522,7 +1522,7 @@ const products = [
 
     {
         id: 74,
-        title: "RSP AminoLean Energy Drink",
+        title: " AminoLean Energy Drink",
         category: "MUSCLETECH",
         description: "Fat burner with amino acids",
         price: "$44.99",
